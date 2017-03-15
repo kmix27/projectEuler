@@ -1,0 +1,8 @@
+# html for my own reference
+*.html
+
+# txt for any data associated with the problems
+*.txt
+
+#notebook checkpoints
+.ipynb_checkpoints/
